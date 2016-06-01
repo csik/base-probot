@@ -2,6 +2,7 @@ alembic==0.8.4
 blinker==1.4
 decorator==4.0.6
 ecdsa==0.13
+gunicorn==19.3.0
 Fabric==1.11.1
 Flask==0.10.1
 Flask-AlchemyDumps==0.0.10
